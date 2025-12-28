@@ -1,2 +1,2 @@
-# Coconut
-The Thing that Powers BananaOS
+# BananaOS
+  The new Aera of OS
